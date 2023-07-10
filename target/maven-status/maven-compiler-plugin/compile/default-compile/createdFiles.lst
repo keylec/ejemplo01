@@ -1,0 +1,6 @@
+pe\edu\unmsm\ejemplo01\repositorios\AlumnoRepositorio.class
+pe\edu\unmsm\ejemplo01\servicios\AlumnoServicioImpl.class
+pe\edu\unmsm\ejemplo01\servicios\IAlumnoServicio.class
+pe\edu\unmsm\ejemplo01\entidades\Alumno.class
+pe\edu\unmsm\ejemplo01\controladores\AlumnoControlador.class
+pe\edu\unmsm\ejemplo01\Ejemplo01Application.class
